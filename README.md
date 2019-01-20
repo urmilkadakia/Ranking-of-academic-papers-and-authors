@@ -19,7 +19,8 @@ The purpose of this project is to construct a ranking metric to evaluate academi
    - Finally it will generate all the plots and tables given in the report and store them in the output folder.
 
 ## License
-GNU
+Apache
+
 
 
 	
