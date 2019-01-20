@@ -13,7 +13,7 @@ The purpose of this project is to construct a ranking metric to evaluate academi
 ## Usage
 1. **Downloading Datasets**
    - Download DBLP citation network dataset version 10 from: [DBLP_v10](https://lfs.aminer.cn/lab-datasets/citation/dblp.v10.zip)
-2. **running the python notebook**
+2. **Running the python notebook**
    - The notebook will load the data from the respective folders in to pandas dataframe.
    - It will run each model described in the report and stores all the intermediate files.
    - Finally it will generate all the plots and tables given in the report and store them in the output folder.
